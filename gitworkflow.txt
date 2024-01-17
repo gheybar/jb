@@ -1,0 +1,5 @@
+Step 1: git checkout -b "branch name" => Create new branch
+Step 2: git branch => Check if on the right branch 
+Step 3: git add -A "or specific path" => Add to staging
+Step 4: git commit -m "commit message" => Add to commit 
+Step 5: git push origin HEAD => Push from local to online 
